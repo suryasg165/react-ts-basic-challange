@@ -13,7 +13,7 @@ export default ({ name }) => (
         </li>
         <li>
           Each user item should have an action 'View Detail' which displays
-          address & company
+          address & company of the particular user
         </li>
       </ul>
     </section>
